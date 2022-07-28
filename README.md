@@ -2,7 +2,7 @@
 
 ## editando perfil
 
-- 👋 oi, sou o ian
+- 👋 oi, sou o **Ian**
 - 👀 eu estou enteressado em aprende e programar novas linguagens
 - 🌱 eu estou aprendendo a programar recentemente a linguagem de javascript e scratch 
 
